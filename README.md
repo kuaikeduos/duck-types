@@ -9,6 +9,7 @@
 
 ## 分类
 
-- ui
-- data-source
-- business
+- ui 和ui有关的所有
+- data-source 和接口请求和响应
+- business 业务逻辑
+- typescript 基础类型的拓展
